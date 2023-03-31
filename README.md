@@ -1,1 +1,2 @@
-# PTI-UMNGotcha-Group5
+# UMN Gotcha 
+# Group 5
