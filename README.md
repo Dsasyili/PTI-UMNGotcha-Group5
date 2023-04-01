@@ -1,5 +1,4 @@
-# UMN Gotcha
-## Group 5
+# UMN Gotcha - Group 5
 
 ### Anggota
 - Muhammad Raehan Putra Hendarsyah/                                                                                                                                 Lead Developer
@@ -8,7 +7,7 @@
 - Khaerul Abduh Rafi/
   Algorithm Designer
 - Desquita Sasyili Kheyla Syihab/[Dsasyili](https://github.com/Dsasyili) (00000078279)
-  Front-end Engineer and Designer
+  .Front-end Engineer and Designer
 
 ### Aturan Bermain
 1. Untuk menyelesaikan game ini, pemain perlu menyelesaikan 3 Level pada UMN Gotcha.
