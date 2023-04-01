@@ -3,7 +3,7 @@
 
 ### Anggota
 - Muhammad Raehan Putra Hendarsyah/
-  *Lead Developer
+  -Lead Developer
 - Emanuel Bernandhika Dwi Friskola/
   Javascript Developer
 - Khaerul Abduh Rafi/
