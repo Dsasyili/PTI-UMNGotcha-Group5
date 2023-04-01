@@ -2,8 +2,7 @@
 ## Group 5
 
 ### Anggota
-- Muhammad Raehan Putra Hendarsyah/
-  -Lead Developer
+- Muhammad Raehan Putra Hendarsyah/                                                                                                                                 Lead Developer
 - Emanuel Bernandhika Dwi Friskola/
   Javascript Developer
 - Khaerul Abduh Rafi/
