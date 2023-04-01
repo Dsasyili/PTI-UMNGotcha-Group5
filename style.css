@@ -1,0 +1,96 @@
+@media (min-width: 1200px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl {
+      max-width: 900px;
+    }
+  }
+  
+  @keyframes fade {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  
+  body {
+    position: relative;
+  }
+
+  #avatar-gallery{
+    height: 300px;
+    width: 300px;
+  }
+  
+  #win-avatar {
+    height: 200px;
+    width: 200px;
+  }
+  
+  .carousel-item {
+    overflow: hidden;
+    width: 100%;
+  }
+  
+  .carousel-item img{
+    object-fit: cover;
+  }
+  
+  #bg-image{
+    background-image: linear-gradient(white, rgb(240, 237, 237));
+    background-size: cover;
+    background-position: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    transition: background-image 1s ease-in-out;
+  }
+  
+  #main-game {
+    z-index: 1;
+  }
+  
+  #avatar {
+    object-fit: cover;
+  }
+  
+  #avatar-container {
+    height: 150px;
+    width: 150px;
+  }
+  
+  #avatar-selection {
+    min-height: 100%;
+  }
+  
+  #jam {
+    text-align: right;
+  }
+  
+  .fadeBase {
+    opacity: 1;
+    transition: opacity 500ms ease-in-out;
+  }
+  
+  .fadeOut {
+    opacity: 0;
+    transition: opacity 500ms ease-in-out;
+  }
+  
+  #help-button{
+    cursor: pointer;
+  }
+  
+  #pause-button{
+    cursor: pointer;
+  }
+  #pause{
+    left: 0;
+  }
+  
+  #game-alert {
+    z-index: 2000;
+  }
