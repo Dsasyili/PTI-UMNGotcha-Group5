@@ -1,4 +1,4 @@
-# Group 5-Intro to internet technology-H-LEC
+# Group 5_Intro to internet technology_H_LEC
 #### UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan piaraan, didalam game ini hewan bisa melakukan aktifitas seperti makan, main, tidur dan minum obat.
 
 ### Video Penjelasan Game
