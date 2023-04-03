@@ -1,10 +1,15 @@
 # UMN Gotcha - Group 5
 
+## UMN Gotcha
+UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan piaraan.
+
+###Link Video Penjelasan Game
+
 ### Anggota
-- Emanuel Bernandhika Dwi Friskola/(00000077703) Lead Developer
-- Desquita Sasyili Kheyla Syihab/[Dsasyili](https://github.com/Dsasyili) (00000078279) Front-end Engineer and Designer
-- Muhammad Raehan Putra Hendarsyah/(00000078572) Javascript Developer
-- Khaerul Abduh Rafi/(00000078745) Algorithm Designer
+- Emanuel Bernandhika Dwi Friskola/(00000077703)
+- Desquita Sasyili Kheyla Syihab/[Dsasyili](https://github.com/Dsasyili) (00000078279) 
+- Muhammad Raehan Putra Hendarsyah/(00000078572) 
+- Khaerul Abduh Rafi/(00000078745) 
 
 ### Aturan Bermain
 1. Untuk menyelesaikan game ini, pemain perlu menyelesaikan 3 Level pada UMN Gotcha.
@@ -18,5 +23,8 @@
 9. Permainan akan melakukan auto save pada jam 12 siang dan jam 12 malam di dalam simulator UMN Gotcha.
 10. Apabila pemain tidak mengaktifkan status obat selama 6 jam di dalam simulator maka pemain akan mati (game over).
 11. Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over).  
+
+### Fitur
+- Background akan berganti sesuai dengan jam didalam game (Pagi, sore, malam).
 
 
