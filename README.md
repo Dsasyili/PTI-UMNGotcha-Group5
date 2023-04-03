@@ -1,9 +1,9 @@
 # UMN Gotcha - Group 5
 
 ## UMN Gotcha
-UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan piaraan.
+- UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan piaraan, didalam game ini hewan bisa melakukan aktifitas seperti makan, main, tidur dan minum obat.
 
-###Link Video Penjelasan Game
+### Link Video Penjelasan Game
 
 ### Anggota
 - Emanuel Bernandhika Dwi Friskola/(00000077703)
