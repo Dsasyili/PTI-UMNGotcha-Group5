@@ -3,6 +3,7 @@
 
 ### Link Video Penjelasan Game
 
+
 ### Anggota
 - Emanuel Bernandhika Dwi Friskola/(00000077703)
 - Desquita Sasyili Kheyla Syihab/[Dsasyili](https://github.com/Dsasyili) (00000078279) 
@@ -23,6 +24,7 @@
 11. Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over).  
 
 ### Fitur
-- Background akan berganti sesuai dengan jam didalam game (Pagi, sore, malam).
+- Pemain bisa memilih avatar hewan yang sudah disediakan.
+- Background akan berganti sesuai dengan jam didalam game (Pagi, sore, dan malam).
 
 
