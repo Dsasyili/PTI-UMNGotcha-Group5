@@ -5,7 +5,7 @@
 
 
 ### Anggota
-- Emanuel Bernandhika Dwi Friskola/(00000077703)
+- Emanuel Bernandhika Dwi Friskola/[Pannacotta](https://github.com/Pannacotta) (00000077703)
 - Desquita Sasyili Kheyla Syihab/[Dsasyili](https://github.com/Dsasyili) (00000078279) 
 - Muhammad Raehan Putra Hendarsyah/(00000078572) 
 - Khaerul Abduh Rafi/(00000078745) 
