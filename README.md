@@ -7,8 +7,8 @@
 ### Anggota
 - Emanuel Bernandhika Dwi Friskola/[Pannacotta](https://github.com/Pannacotta) (00000077703)
 - Desquita Sasyili Kheyla Syihab/[Dsasyili](https://github.com/Dsasyili) (00000078279) 
-- Muhammad Raehan Putra Hendarsyah/(https://github.com/Muhammad Raehan Putra H)(00000078572) 
-- Khaerul Abduh Rafi/(https://github.com/Khaerulabduhrafi)(00000078745) 
+- Muhammad Raehan Putra Hendarsyah/[amrptraa](https://github.com/Muhammad Raehan Putra H)(00000078572) 
+- Khaerul Abduh Rafi/[khaerafi](https://github.com/Khaerulabduhrafi)(00000078745) 
 
 ### Aturan Bermain
 1. Untuk menyelesaikan game ini, pemain perlu menyelesaikan 3 Level pada UMN Gotcha.
