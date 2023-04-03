@@ -3,8 +3,6 @@
 
 ### Video Penjelasan Game
 [!Video Penjelasan Game](https://img.youtube.com/vi/XxMTZ_lJCs4/0.jpg)](https://www.youtube.com/watch?v=XxMTZ_lJCs4)
-https://youtu.be/XxMTZ_lJCs4
-
 
 ### Anggota
 - Emanuel Bernandhika Dwi Friskola/[Pannacotta](https://github.com/catthye) (00000077703)
