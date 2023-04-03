@@ -25,6 +25,7 @@
 
 ### Fitur
 - Pemain bisa memilih avatar hewan yang sudah disediakan.
+- Pemain bisa memainkan fitur bermain Snake Game.
 - Background akan berganti sesuai dengan jam didalam game (Pagi, sore, dan malam).
 
 
