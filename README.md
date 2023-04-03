@@ -1,4 +1,4 @@
-# UMN Gotcha - Group 5
+# UMN Gotcha - Group 5 - Intro to internet technology
 #### UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan piaraan, didalam game ini hewan bisa melakukan aktifitas seperti makan, main, tidur dan minum obat.
 
 ### Video Penjelasan Game
@@ -23,8 +23,10 @@
 10. Apabila pemain tidak mengaktifkan status obat selama 6 jam di dalam simulator maka pemain akan mati (game over).
 11. Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over).  
 
-### Fitur
-- Pemain bisa memilih avatar hewan yang sudah disediakan.
+### Fitur & Batasan 
+- Terdapat fitur tombol untuk resume, save, dan restart dalam permainan ini.
+- Pemain bisa memilih salah satu avatar hewan yang sudah disediakan.
+- Kelompok kami menyediakan 6 pilihan avatar hewan.
 - Pemain bisa memainkan fitur bermain Snake Game.
 - Background akan berganti sesuai dengan jam didalam game (Pagi, sore, dan malam).
 
