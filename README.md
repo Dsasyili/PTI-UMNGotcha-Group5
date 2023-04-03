@@ -24,7 +24,7 @@
 11. Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over).  
 
 ### Fitur & Batasan 
-- Terdapat fitur tombol untuk resume, save, dan restart dalam permainan ini.
+- Terdapat fitur tombol untuk resume, save, dan restart dalam game ini.
 - Pemain bisa memilih salah satu avatar hewan yang sudah disediakan.
 - Kelompok kami menyediakan 6 pilihan avatar hewan.
 - Pemain bisa memainkan fitur bermain Snake Game.
