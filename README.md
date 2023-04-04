@@ -17,9 +17,9 @@ UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan pi
 - Terdapat fitur tombol untuk resume, save, dan restart dalam game ini.
 - Terdapat fitur bantuan untuk menjelaskan aturan/cara bermain.
 - Menyediakan permainan Snake Game pada aktifitas main dengan menggunakan cursor (kanan, kiri, atas, bawah).
-- Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over). 
 - Akan muncul peringatan jika status hewan memburuk seperti (kurang makan, kurang bermain, kurang obat, dan kurang tidur).
 - Background akan berganti sesuai dengan jam didalam game (Pagi, sore, dan malam).
+- Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over). 
 
 ### Aturan Bermain
 1. Untuk menyelesaikan game ini, pemain perlu menyelesaikan 3 Level pada UMN Gotcha.
