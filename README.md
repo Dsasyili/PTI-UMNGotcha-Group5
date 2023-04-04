@@ -1,4 +1,4 @@
-# Group 5 - Intro to internet technology(IF231-H)-LEC
+# Group 5-UMN Gotcha(IF231-H)-LEC
 UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan piaraan, didalam game ini hewan bisa melakukan aktifitas seperti makan, main, tidur dan minum obat. Permainan ini dibuat untuk memenuhi ujian tengah semester mata kuliah Intro to internet technology (IF231-H).
 
 ### Video Penjelasan Game UMN Gotcha 
@@ -10,6 +10,15 @@ UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan pi
 - Desquita Sasyili Kheyla Syihab/[Dsasyili](https://github.com/Dsasyili) (00000078279) 
 - Muhammad Raehan Putra Hendarsyah/[amrptraaa](https://github.com/amrptraaa)(00000078572) 
 - Khaerul Abduh Rafi/[khaerafi](https://github.com/Khaerulabduhrafi)(00000078745) 
+
+### Fitur & Batasan 
+- Menyediakan 6 pilihan avatar hewan, pemain hanya dapat memilih salah satu avatar saja.
+- Menampilkan salam sesuai waktu berganti(pagi, siang, sore dan malam) beserta nama yang sudah pemain input.
+- Terdapat fitur tombol untuk resume, save, dan restart dalam game ini.
+- Menyediakan permainan Snake Game pada aktifitas main.
+- Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over). 
+- Akan muncul peringatan jika status hewan memburuk seperti (kurang makan, kurang bermain, kurang obat, dan kurang tidur).
+- Background akan berganti sesuai dengan jam didalam game (Pagi, sore, dan malam).
 
 ### Aturan Bermain
 1. Untuk menyelesaikan game ini, pemain perlu menyelesaikan 3 Level pada UMN Gotcha.
@@ -23,12 +32,5 @@ UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan pi
 9. Permainan akan melakukan auto save pada jam 12 siang dan jam 12 malam di dalam simulator UMN Gotcha.
 10. Apabila pemain tidak mengaktifkan status obat selama 6 jam di dalam simulator maka pemain akan mati (game over).
 11. Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over).  
-
-### Fitur & Batasan 
-- Terdapat fitur tombol untuk resume, save, dan restart dalam game ini.
-- Pemain bisa memilih salah satu avatar hewan yang sudah disediakan.
-- Kelompok kami menyediakan 6 pilihan avatar hewan.
-- Pemain bisa memainkan fitur bermain Snake Game.
-- Background akan berganti sesuai dengan jam didalam game (Pagi, sore, dan malam).
 
 
