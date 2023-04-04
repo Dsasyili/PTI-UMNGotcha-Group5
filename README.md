@@ -1,7 +1,7 @@
 # Group5 - UMN Gotcha(IF231-H)-LEC
 UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan piaraan, didalam game ini hewan bisa melakukan aktifitas seperti makan, main, tidur dan minum obat. Permainan ini dibuat untuk memenuhi ujian tengah semester mata kuliah Intro to internet technology (IF231-H).
 
-### Video Penjelasan Game UMN Gotcha 
+### Video Demonstrasi Game UMN Gotcha 
     (silahkan klik gambar dibawah untuk menonton)
 [![Video Penjelasan Game](https://img.youtube.com/vi/XxMTZ_lJCs4/0.jpg)](https://www.youtube.com/watch?v=XxMTZ_lJCs4)
 
@@ -15,7 +15,8 @@ UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan pi
 - Menyediakan 6 pilihan avatar hewan, pemain hanya dapat memilih salah satu avatar saja.
 - Menampilkan salam sesuai waktu berganti(pagi, siang, sore dan malam) beserta nama yang sudah pemain input.
 - Terdapat fitur tombol untuk resume, save, dan restart dalam game ini.
-- Menyediakan permainan Snake Game pada aktifitas main.
+- Terdapat fitur bantuan untuk menjelaskan aturan/cara bermain.
+- Menyediakan permainan Snake Game pada aktifitas main dengan menggunakan cursor (kanan, kiri, atas, bawah).
 - Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over). 
 - Akan muncul peringatan jika status hewan memburuk seperti (kurang makan, kurang bermain, kurang obat, dan kurang tidur).
 - Background akan berganti sesuai dengan jam didalam game (Pagi, sore, dan malam).
