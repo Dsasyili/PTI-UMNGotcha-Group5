@@ -1,4 +1,4 @@
-# Group5 - UMN Gotcha(IF231-H)-LEC
+# Group5 - UMN Gotcha(IF231-H) LEC
 UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan piaraan, didalam game ini hewan bisa melakukan aktifitas seperti makan, main, tidur dan minum obat. Permainan ini dibuat untuk memenuhi ujian tengah semester mata kuliah Intro to internet technology (IF231-H).
 
 ### Video Demonstrasi Game UMN Gotcha 
