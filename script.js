@@ -864,6 +864,5 @@ document.addEventListener('keydown', function (e) {
         snake.dx = 0;
     }
 });
-
 requestAnimationFrame(loop);
 // End Snake Game
