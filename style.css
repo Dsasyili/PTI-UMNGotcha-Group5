@@ -94,7 +94,6 @@ body {
 #game-alert {
   z-index: 2000;
 }
-
 /* Canvas Snake Game */
 canvas {
   width: 403px;
