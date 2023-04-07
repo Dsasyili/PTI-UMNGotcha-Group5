@@ -33,5 +33,3 @@ UMN Gotcha merupakan sebuah game yang mencoba mengsimulasikan kehidupan hewan pi
 9. Permainan akan melakukan auto save pada jam 12 siang dan jam 12 malam di dalam simulator UMN Gotcha.
 10. Apabila pemain tidak mengaktifkan status obat selama 6 jam di dalam simulator maka pemain akan mati (game over).
 11. Jika salah satu dari 4 status bar (makan, main, obat, tidur) habis/kosong maka permainan akan berakhir (game over).  
-
-
